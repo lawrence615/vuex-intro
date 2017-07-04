@@ -2,6 +2,9 @@
 
 > A Vue.js project
 
+# Demo
+![Screenshot 1](https://github.com/lawrence615/vuex-intro/blob/master/screenshots/demo.gif)
+
 ## Build Setup
 
 ``` bash
